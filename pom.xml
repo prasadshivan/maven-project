@@ -45,11 +45,7 @@
       <artifactId>jboss-as-maven-plugin</artifactId>
       <version>7.1.Final</version>
       </plugin>
-
-
-
-
-    </plugins>            
+         
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
